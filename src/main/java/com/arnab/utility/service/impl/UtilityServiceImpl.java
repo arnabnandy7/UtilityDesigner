@@ -18,7 +18,7 @@ public class UtilityServiceImpl implements UtilityService {
 	@Override
 	public List<CompressorDummyData> getCompressData() {
 		List<CompressorDummyData> comList = new ArrayList<>();
-		for (Integer i = 0; i < 100000; i++) {
+		for (Integer i = 0; i < 1000000; i++) {
 			CompressorDummyData comData = new CompressorDummyData("Sample", "Sample", i, LocalDateTime.now());
 			comList.add(comData);
 		}
