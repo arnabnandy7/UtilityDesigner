@@ -1,4 +1,5 @@
 # UtilityDesigner
 A utility project for restful apis to design utility support programs
 
-<!-- GitAds-Verify: FZQ49D6VXBJBA74M2TZZT9NDVX63833P -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/utilitydesigner@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/utilitydesigner@github)
